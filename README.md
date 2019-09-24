@@ -1,0 +1,1 @@
+# STEPIK-auto-test
